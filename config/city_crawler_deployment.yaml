@@ -1,0 +1,3 @@
+name: city-crawler-deployment
+flow_name: CityCrawler
+entrypoint: flows/city_crawler.py:city_crawler_flow
